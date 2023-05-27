@@ -22,6 +22,11 @@ body {
     padding: 1rem;
 }
 
+.header #header-img {
+    margin: auto;
+    display: block;
+}
+
 .processing-area {
     margin: auto;
     padding: 1rem;
